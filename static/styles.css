@@ -1,0 +1,40 @@
+body {
+  background-color: #2980b9;
+  color: #000;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.container {
+  padding-top: 20px;
+}
+
+.poster {
+  text-align: center;
+}
+
+.poster img {
+  max-width: 70%;
+  height: auto;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+.task-box {
+  margin-top: 10px;
+}
+
+.card {
+  margin-bottom: 10px;
+}
+
+.card-header, .card-body {
+  color: #000 !important;
+}
+
+.card-content {
+  border: 1px solid #ccc;
+  background-color: #fff;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
